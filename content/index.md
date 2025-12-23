@@ -1,7 +1,7 @@
 ---
 title: Brewster's Burrow!
 ---
-# Brewster's Burrow
+# About Me
 
 Welcome to Brewster's Burrow!
 
