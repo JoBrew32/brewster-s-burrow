@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Brewster's Burrow!
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is my static website hosted with github.pages, using the quartz framework working within an obsidian vault!
