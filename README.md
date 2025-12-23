@@ -1,18 +1,29 @@
-# Quartz v4
+# Brewster's Burrow
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Welcome to Brewster's Burrow!
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+I'm Joel Saroni, 
+I graduated from University Dallas in 2022 with a Bachelor's in Mathematics and a Minor in Physics,
+I'm currently a mathematics PhD student at the University of North Texas.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+I like martial arts (II Black Belt in ATA Taekwondo), Ultimate frisbee, bouldering, ping-pong, pickleball, and starting to get into disc golf.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+I have variety of personal projects I like to work such as:
+- Physics simulation for disc flight.
+- A real time application of the W'-Balance Model (Clarke, Skiba) for endurance athletes.
+- Domain Coloring Jigsaw Puzzle with bent grid lines according to any complex function.
+- Combining techniques from Joshi-Tzermias and Mestre to find hyperelliptic curves of above average rank.
+- Using algebraic (co)homology to simulate phonetic and phonological rules to the Optimality Theory model of language.
+- A posterior conlanging, speculative evolution, studying air currents and ocean currents for worldbuilding.
+- Game design including a TTRPG (name pending), FrogFight FrogCard (TCG about frogs), political social deduction and resource management board game.
+- Learning to draw (a lot of bats right now).
+- Essays on philosophy, shonen anime, classic literature, and pedagogy.
 
-## Sponsors
+And more.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+The purpose of this burrow is to provide an outlet for me to share my progress, code, ideas, games, math research, or whatever else I am enjoying at the time.
+
+Please come along my analytically creative journey!
+
+	- Brewster
+
