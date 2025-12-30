@@ -1,10 +1,11 @@
 
 # Joel Saroni
 
-Teaching Fellow
-University of North Texas
-Department of Mathematics
-Email: joel.saroni@unt.edu
+- Teaching Fellow
+- University of North Texas
+- Department of Mathematics
+- Email: joel.saroni@unt.edu
+- Github: [JoBrew32 (JSaroni)](https://github.com/JoBrew32)
 
 ---
 # Education
@@ -27,3 +28,5 @@ Email: joel.saroni@unt.edu
 ## Jesuit College Preparatory School of Dallas
 
 - MATH 622 - 9th and 10th grade geometry, two semesters.
+
+---
