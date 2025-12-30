@@ -1,6 +1,7 @@
 ---
 title: About Me
 ---
+# Bio
 
 My name is Joel Saroni, 
 I graduated from University Dallas in 2022 with a Bachelor's in Mathematics and a Minor in Physics,
@@ -25,4 +26,11 @@ The purpose of this burrow is to provide an outlet for me to share my progress, 
 
 Please come along my analytically creative journey!
 
-	- Brewster
+- Brewster
+
+# CV
+
+- [[CV]]
+
+
+# Publications
